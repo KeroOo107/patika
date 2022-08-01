@@ -1,4 +1,5 @@
 # Insertion Sort
+https://app.patika.dev/keremcanmlmn
 Proje 1 [22,27,16,2,18,6]
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız
 > - 1-"2" yi ilk sıraya ve "22" yi "2" nin yerine koy. [2,2716,22,18,6]
